@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Численные методы.exe
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Численные методы.deps.json
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Численные методы.runtimeconfig.json
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Численные методы.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Численные методы.dll
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Численные методы.pdb
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.dll
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.pdb
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Численные методы\Численные методы\bin\Debug\netcoreapp3.1\Flee.NetStandard20.dll
+C:\Users\Admin\source\repos\Численные методы\Численные методы\obj\Debug\netcoreapp3.1\Численные методы.csproj.CopyComplete
